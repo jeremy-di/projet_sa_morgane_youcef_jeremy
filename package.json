@@ -1,0 +1,20 @@
+{
+  "name": "projet_lsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "mongo": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.9.0",
+    "mysql2": "^3.11.3"
+  }
+}

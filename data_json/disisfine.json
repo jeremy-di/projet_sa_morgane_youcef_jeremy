@@ -1,0 +1,26 @@
+[
+    {
+        "e_name": "Mon premier événement",
+        "e_start": "2024-11-05 18:00:00",
+        "e_finish": "2024-11-05 22:00:00",
+        "e_location": "5 avenue des Champs - 75008 Paris",
+        "e_attendees_max": 10,
+        "attendees": "[[\"Alice\", \"Durand\", \"2023-05-12\"],[\"Bob\", \"Martin\", \"2023-06-18\"],[\"Charlie\", \"Petit\", \"2023-07-21\"]]"
+    },
+    {
+        "e_name": "Atelier de cuisine",
+        "e_start": "2024-12-15 14:00:00",
+        "e_finish": "2024-12-15 17:00:00",
+        "e_location": "20 rue de la Gastronomie - 75012 Paris",
+        "e_attendees_max": 15,
+        "attendees": "[[\"David\", \"Lefèvre\", \"2023-08-10\"],[\"Eva\", \"Roussel\", \"2023-09-15\"],[\"Félix\", \"Garnier\", \"2023-10-20\"]]"
+    },
+    {
+        "e_name": "Conférence Tech 2025",
+        "e_start": "2025-01-20 09:00:00",
+        "e_finish": "2025-01-20 17:00:00",
+        "e_location": "100 boulevard des Innovations - 75010 Paris",
+        "e_attendees_max": 50,
+        "attendees": "[[\"Gilles\", \"Bernard\", \"2023-11-01\"],[\"Hélène\", \"Thompson\", \"2023-11-05\"],[\"Isabelle\", \"Lemoine\", \"2023-12-12\"]]"
+    }
+]

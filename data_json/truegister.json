@@ -1,0 +1,53 @@
+[
+    {
+        "results": [
+            {
+                "event": {
+                    "event_name": "Soirée de Gala",
+                    "event_begin": "2025-11-15 18:00:00",
+                    "event_finish": "2025-11-15 23:00:00",
+                    "event_where": "12 avenue de la République - 75011 Paris"
+                },
+                "attendees": [
+                    { "attendee_1": "Pierre", "attendee_2": "Durand" },
+                    { "attendee_1": "Sophie", "attendee_2": "Martin" },
+                    { "attendee_1": "François", "attendee_2": "Leblanc" }
+                ]
+            }
+        ]
+    },
+    {
+        "results": [
+            {
+                "event": {
+                    "event_name": "Concert d'Été",
+                    "event_begin": "2025-06-25 20:00:00",
+                    "event_finish": "2025-06-25 22:00:00",
+                    "event_where": "Parc des Princes - 75016 Paris"
+                },
+                "attendees": [
+                    { "attendee_1": "Luc", "attendee_2": "Moreau" },
+                    { "attendee_1": "Élise", "attendee_2": "Girard" },
+                    { "attendee_1": "Clément", "attendee_2": "Roussel" }
+                ]
+            }
+        ]
+    },
+    {
+        "results": [
+            {
+                "event": {
+                    "event_name": "Atelier Cuisine",
+                    "event_begin": "2025-09-10 14:00:00",
+                    "event_finish": "2025-09-10 17:00:00",
+                    "event_where": "10 rue de la Gastronomie - 75012 Paris"
+                },
+                "attendees": [
+                    { "attendee_1": "Marie", "attendee_2": "Lefèvre" },
+                    { "attendee_1": "Julien", "attendee_2": "Fournier" },
+                    { "attendee_1": "Amélie", "attendee_2": "Dubois" }
+                ]
+            }
+        ]
+    }
+]

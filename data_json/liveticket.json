@@ -1,0 +1,39 @@
+[
+    {
+        "event": "Fete de la musique",
+        "start": "2025-09-10 19:00:00",
+        "end": "2025-09-11 01:00:00",
+        "max": 20,
+        "where": "12 rue de l'estuaire - 35200 Saint-Malo",
+        "attendees": [
+         { "fn": "Julie", "ln": "Zard", "when": "2024-03-12" },
+         { "fn": "Cedric", "ln": "Durand", "when": "2024-03-14" },
+         { "fn": "Cathy", "ln": "Drupal", "when": "2024-04-15" }
+         ]
+    },
+    {
+        "event": "Tekkit Job_dating",
+        "start": "2025-02-13 17:30:00",
+        "end": "2024-02-13 19:30:00",
+        "max": 100,
+        "where": "6 square du moulin à vent - 35000 Rennes",
+        "attendees": [
+         { "fn": "Clara", "ln": "Line", "when": "2024-04-02" },
+         { "fn": "Laura", "ln": "Darne", "when": "2024-06-24" },
+         { "fn": "Jack", "ln": "Olis", "when": "2024-07-14" },
+         { "fn": "Jordann", "ln": "truffaut", "when": "2024-04-15" }
+         ]
+    },
+    {
+        "event": "Karting-challenge",
+        "start": "2024-03-25 16:00:00",
+        "end": "2024-03-25 20:00:00",
+        "max": 20,
+        "where": "12 rue de Melun - 91000 Evry-Courcouronnes",
+        "attendees": [
+         { "fn": "Kevin", "ln": "Durand", "when": "2024-06-12" },
+         { "fn": "Yannick", "ln": "Orel", "when": "2024-12-14" },
+         { "fn": "Jean", "ln": "Dupont", "when": "2024-01-15" }
+         ]
+    }
+]

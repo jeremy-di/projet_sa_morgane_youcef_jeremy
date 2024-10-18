@@ -1,0 +1,223 @@
+[
+  {
+    "e_name": "Fete de la musique",
+    "e_debut": "2025-09-10 19:00:00",
+    "e_end": "2025-09-11 01:00:00",
+    "e_maxPersonnes": 20,
+    "e_lieu": "12 rue de l'estuaire - 35200 Saint-Malo",
+    "e_attendees": [
+      {
+        "a_prenom": "Julie",
+        "a_nom": "Zard",
+        "a_inscription": "2024-03-12"
+      },
+      {
+        "a_prenom": "Cedric",
+        "a_nom": "Durand",
+        "a_inscription": "2024-03-14"
+      },
+      {
+        "a_prenom": "Cathy",
+        "a_nom": "Drupal",
+        "a_inscription": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "e_name": "Tekkit Job_dating",
+    "e_debut": "2025-02-13 17:30:00",
+    "e_end": "2024-02-13 19:30:00",
+    "e_maxPersonnes": 100,
+    "e_lieu": "6 square du moulin à vent - 35000 Rennes",
+    "e_attendees": [
+      {
+        "a_prenom": "Clara",
+        "a_nom": "Line",
+        "a_inscription": "2024-04-02"
+      },
+      {
+        "a_prenom": "Laura",
+        "a_nom": "Darne",
+        "a_inscription": "2024-06-24"
+      },
+      {
+        "a_prenom": "Jack",
+        "a_nom": "Olis",
+        "a_inscription": "2024-07-14"
+      },
+      {
+        "a_prenom": "Jordann",
+        "a_nom": "truffaut",
+        "a_inscription": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "e_name": "Karting-challenge",
+    "e_debut": "2024-03-25 16:00:00",
+    "e_end": "2024-03-25 20:00:00",
+    "e_maxPersonnes": 20,
+    "e_lieu": "12 rue de Melun - 91000 Evry-Courcouronnes",
+    "e_attendees": [
+      {
+        "a_prenom": "Kevin",
+        "a_nom": "Durand",
+        "a_inscription": "2024-06-12"
+      },
+      {
+        "a_prenom": "Yannick",
+        "a_nom": "Orel",
+        "a_inscription": "2024-12-14"
+      },
+      {
+        "a_prenom": "Jean",
+        "a_nom": "Dupont",
+        "a_inscription": "2024-01-15"
+      }
+    ]
+  },
+  {
+    "e_name": "Soirée de Gala",
+    "e_debut": "2025-11-15 18:00:00",
+    "e_end": "2025-11-15 23:00:00",
+    "e_maxPersonnes": null,
+    "e_lieu": "12 avenue de la République - 75011 Paris",
+    "attendees": [
+      {
+        "a_prenom": "Pierre",
+        "a_nom": "Durand",
+        "a_inscription": null
+      },
+      {
+        "a_prenom": "Sophie",
+        "a_nom": "Martin",
+        "a_inscription": null
+      },
+      {
+        "a_prenom": "François",
+        "a_nom": "Leblanc",
+        "a_inscription": null
+      }
+    ]
+  },
+  {
+    "e_name": "Concert d'Été",
+    "e_debut": "2025-06-25 20:00:00",
+    "e_end": "2025-06-25 22:00:00",
+    "e_maxPersonnes": null,
+    "e_lieu": "Parc des Princes - 75016 Paris",
+    "attendees": [
+      {
+        "a_prenom": "Luc",
+        "a_nom": "Moreau",
+        "a_inscription": null
+      },
+      {
+        "a_prenom": "Élise",
+        "a_nom": "Girard",
+        "a_inscription": null
+      },
+      {
+        "a_prenom": "Clément",
+        "a_nom": "Roussel",
+        "a_inscription": null
+      }
+    ]
+  },
+  {
+    "e_name": "Atelier Cuisine",
+    "e_debut": "2025-09-10 14:00:00",
+    "e_end": "2025-09-10 17:00:00",
+    "e_maxPersonnes": null,
+    "e_lieu": "10 rue de la Gastronomie - 75012 Paris",
+    "attendees": [
+      {
+        "a_prenom": "Marie",
+        "a_nom": "Lefèvre",
+        "a_inscription": null
+      },
+      {
+        "a_prenom": "Julien",
+        "a_nom": "Fournier",
+        "a_inscription": null
+      },
+      {
+        "a_prenom": "Amélie",
+        "a_nom": "Dubois",
+        "a_inscription": null
+      }
+    ]
+  },
+  {
+    "e_name": "Mon premier événement",
+    "e_debut": "2024-11-05 18:00:00",
+    "e_end": "2024-11-05 22:00:00",
+    "e_maxPersonnes": 10,
+    "e_lieu": "5 avenue des Champs - 75008 Paris",
+    "e_attendees": [
+      {
+        "a_prenom": "Alice",
+        "a_nom": "Durand",
+        "a_inscription": "2023-05-12"
+      },
+      {
+        "a_prenom": "Bob",
+        "a_nom": "Martin",
+        "a_inscription": "2023-06-18"
+      },
+      {
+        "a_prenom": "Charlie",
+        "a_nom": "Petit",
+        "a_inscription": "2023-07-21"
+      }
+    ]
+  },
+  {
+    "e_name": "Atelier de cuisine",
+    "e_debut": "2024-12-15 14:00:00",
+    "e_end": "2024-12-15 17:00:00",
+    "e_maxPersonnes": 15,
+    "e_lieu": "20 rue de la Gastronomie - 75012 Paris",
+    "e_attendees": [
+      {
+        "a_prenom": "David",
+        "a_nom": "Lefèvre",
+        "a_inscription": "2023-08-10"
+      },
+      {
+        "a_prenom": "Eva",
+        "a_nom": "Roussel",
+        "a_inscription": "2023-09-15"
+      },
+      {
+        "a_prenom": "Félix",
+        "a_nom": "Garnier",
+        "a_inscription": "2023-10-20"
+      }
+    ]
+  },
+  {
+    "e_name": "Conférence Tech 2025",
+    "e_debut": "2025-01-20 09:00:00",
+    "e_end": "2025-01-20 17:00:00",
+    "e_maxPersonnes": 50,
+    "e_lieu": "100 boulevard des Innovations - 75010 Paris",
+    "e_attendees": [
+      {
+        "a_prenom": "Gilles",
+        "a_nom": "Bernard",
+        "a_inscription": "2023-11-01"
+      },
+      {
+        "a_prenom": "Hélène",
+        "a_nom": "Thompson",
+        "a_inscription": "2023-11-05"
+      },
+      {
+        "a_prenom": "Isabelle",
+        "a_nom": "Lemoine",
+        "a_inscription": "2023-12-12"
+      }
+    ]
+  }
+]
